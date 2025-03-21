@@ -1,2 +1,10 @@
 # czii-cryoet-object-identification
-Machine learning models to predict an RNA molecule’s 3D structure from its sequence.
+Identifying points corresponding to particle centers in 3D tomograms.
+
+The data contains 6 particle types with different difficulty levels of prediction.
+- apo-ferritin (easy)
+- beta-amylase (impossible, not scored)
+- beta-galactosidase (hard)
+- ribosome (easy)
+- thyroglobulin (hard)
+- virus-like-particle (easy)
